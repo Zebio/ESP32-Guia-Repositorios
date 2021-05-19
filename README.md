@@ -1,4 +1,12 @@
-Este repositório é um guia para todos os meus Projetos desenvolvidos para a placa ESP32
+# Resumo
+
+Aqui temos uma ligação para todos os repositórios que venho desenvolvendo com ESP32. Contém um link para cada um dos repositórios e uma breve descrição de cada um.
+
+### Como usar
+
+Todos esses projetos foram desenvolvidos no PlatformIO do VSCode. Para obter instruções para clonar corretamente qualquer um destes repositórios, consulte o [Guia de Instruções PlatformIO](https://github.com/Zebio/Instrucoes-PlatformIO)
+
+### Repositórios
 
 [Projeto 01 - Controle de Saídas Independentes](https://github.com/Zebio/ESP32-Projeto01-Saidas-Independentes)
 
@@ -17,3 +25,4 @@ Este repositório é um guia para todos os meus Projetos desenvolvidos para a pl
 [Projeto 08 - Acompanhamento de Nível de Carga de Bateria de Lítio Wireless - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto08-Carga-Wireless)
 
 [Projeto 09 - Web Server para Automação Wireless - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto09-Http-Server)
+
