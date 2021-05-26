@@ -1,6 +1,8 @@
-# Resumo
+# Guia dos Repositórios de ESP32
 
-Aqui temos uma ligação para todos os repositórios que venho desenvolvendo com ESP32. Os primeiros repositórios contém projetos mais simples e fáceis, a complexidade de projeto vai aumentando conforme a progressão. Contém um link para cada um dos repositórios e uma breve descrição de cada um, como o Framework escolhido e as tecnologias/periféricos usados(as).
+### Resumo
+
+Aqui temos uma ligação para todos os repositórios que venho desenvolvendo com ESP32. Os primeiros repositórios contém projetos mais simples e fáceis, a complexidade de projeto vai aumentando conforme a progressão. Contém um link para cada um dos repositórios e uma breve descrição de cada um, como o Framework escolhido e as tecnologias/periféricos usados(as). Os primeiros projetos foram construídos usando o framework Arduíno, porém depois houve uma mudança para usar o framework nativo do ESP32, o ESP SDK IDF em linguagem C.  
  
 ### Como usar
 
