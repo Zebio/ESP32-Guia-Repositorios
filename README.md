@@ -56,7 +56,7 @@ Automação Residencial/Industrial onde temos um web server http que controla 2(
 Framework/Linguagem: ESP SDK IDF / C  
 Periféricos/Tecnologias: Wireless, Http server.
 
-[Projeto 10 - Gerador PWM - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto10-Gerador-PWM) (Projeto Incompleto)  
+[Projeto 10 - Gerador PWM - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto10-Gerador-PWM)
 Cria um http server via Wireless que controla um gerador PWM profissional com 2 canais e regulagens de frequência(resolução do duty adaptável à frequência) e duty cicle.  
 Framework/Linguagem: ESP SDK IDF / C  
 Periféricos/Tecnologias: Wireless, Http server, PWM.
