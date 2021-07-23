@@ -1,10 +1,12 @@
 # Guia dos Repositórios de ESP32
 
+Uma compilação dos meus repositórios usando ESP32
+
 ### Resumo
 
 Aqui temos uma ligação para todos os repositórios que venho desenvolvendo com ESP32. Os primeiros repositórios contém projetos mais simples e fáceis, a complexidade de projeto vai aumentando conforme a progressão. Contém um link para cada um dos repositórios e uma breve descrição de cada um, como o Framework escolhido e as tecnologias/periféricos usados(as). Os primeiros projetos foram construídos usando o framework Arduíno, porém depois houve uma mudança para usar o framework nativo do ESP32, o ESP SDK IDF em linguagem C.  
  
-### Como usar
+### Como Instalar e Usar
 
 Todos esses projetos foram desenvolvidos no PlatformIO do VSCode. Para obter instruções para clonar corretamente qualquer um destes repositórios, consulte o [Guia de Instruções PlatformIO](https://github.com/Zebio/Instrucoes-PlatformIO)
 
@@ -60,3 +62,11 @@ Periféricos/Tecnologias: Wireless, Http server.
 Cria um http server via Wireless que controla um gerador PWM profissional com 2 canais e regulagens de frequência(resolução do duty adaptável à frequência) e duty cicle.  
 Framework/Linguagem: ESP SDK IDF / C  
 Periféricos/Tecnologias: Wireless, Http server, PWM.
+
+[Projeto 11 - Gerador PWM - Framework ESP IDF](https://github.com/Zebio/Projeto11-Caixa_dagua) 
+Periférico do sensor de água na caixa que se comunica com BLE
+Framework/Linguagem: Arduíno
+Periféricos/Tecnologias: Bluetooth Low Energy
+
+
+
