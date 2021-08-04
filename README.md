@@ -63,8 +63,8 @@ Cria um http server via Wireless que controla um gerador PWM profissional com 2 
 Framework/Linguagem: ESP SDK IDF / C  
 Periféricos/Tecnologias: Wireless, Http server, PWM.
 
-[Projeto 11 - Gerador PWM - Framework ESP IDF](https://github.com/Zebio/Projeto11-Caixa_dagua)     
-Periférico do sensor de água na caixa que se comunica com BLE.     
+[Projeto 11 - Caixa-D'agua](https://github.com/Zebio/Projeto11-Caixa_dagua)     
+Esse projeto alimentado com energia solar monitora o nível de uma caixa d'agua a distância usando o ESP32 e BLE para enviar informações.     
 Framework/Linguagem: Arduíno.     
 Periféricos/Tecnologias: Bluetooth Low Energy    
 
