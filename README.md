@@ -70,8 +70,8 @@ Periféricos/Tecnologias: Bluetooth Low Energy
 
 
 [Projeto 12 - Carro Controlado por Controle ps3](https://github.com/Zebio/Projeto12_ps3_controller_car)
-Controla um carrinho de brinquedo através de um controle de ps3, conectando o ESP e o Controle por bluetooth. É usando um CI Driver de motor para tração e direção do carro
-Framework: Arduíno.
-Periféricos/Tecnologias: Bluetooth.
+Controla um carrinho de brinquedo através de um controle de ps3, conectando o ESP e o Controle por bluetooth. É usando um CI Driver de motor para tração e direção do carro.   
+Framework: Arduíno.   
+Periféricos/Tecnologias: Bluetooth.  
 
 
