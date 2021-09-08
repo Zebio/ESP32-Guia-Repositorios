@@ -50,28 +50,28 @@ Periféricos/Tecnologias: Wireless, Http server.
 
 [Projeto 08 - Acompanhamento de Nível de Carga de Bateria de Lítio Wireless - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto08-Carga-Wireless)  
 Cria um http server via Wireless na rede para realizar monitoramento da porcentagem estimada de carga de uma bateria Li-ion.    
-Framework: ESP SDK IDF 
+Framework: ESP SDK IDF   
 Periféricos/Tecnologias: Wireless, Http server, RTOS tasks.
 
 [Projeto 09 - Web Server para Automação Wireless - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto09-Http-Server)  
 Automação Residencial/Industrial onde temos um web server http que controla 2(ou mais) saídas digitais via Wireless.  
-Framework ESP SDK IDF 
+Framework ESP SDK IDF   
 Periféricos/Tecnologias: Wireless, Http server.
 
 [Projeto 10 - Gerador PWM - Framework ESP IDF](https://github.com/Zebio/ESP32-Projeto10-Gerador-PWM)   
 Cria um http server via Wireless que controla um gerador PWM profissional com 2 canais e regulagens de frequência(resolução do duty adaptável à frequência) e duty cicle.  
-Framework: ESP SDK IDF
+Framework: ESP SDK IDF  
 Periféricos/Tecnologias: Wireless, Http server, PWM.
 
 [Projeto 11 - Caixa-D'agua](https://github.com/Zebio/Projeto11-Caixa_dagua)     
 Esse projeto alimentado com energia solar monitora o nível de uma caixa d'agua a distância usando o ESP32 e BLE para enviar informações.     
-Framework: Arduíno.     
+Framework: Arduíno.       
 Periféricos/Tecnologias: Bluetooth Low Energy    
 
 
 [Projeto 12 - Carro Controlado por Controle ps3](https://github.com/Zebio/Projeto12_ps3_controller_car)
 Controla um carrinho de brinquedo através de um controle de ps3, conectando o ESP e o Controle por bluetooth. É usando um CI Driver de motor para tração e direção do carro.   
-Framework: Arduíno.   
+Framework: Arduíno.    
 Periféricos/Tecnologias: Bluetooth.  
 
 
